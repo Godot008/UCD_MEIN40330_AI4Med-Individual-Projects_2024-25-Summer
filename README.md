@@ -1,4 +1,4 @@
-# AI for Personalised Medicine
+# AI for Personalised Medicine Individual Project
 
 [![CRAN](https://img.shields.io/badge/CRAN-4.4.2+-green.svg)](#) [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](#)
 
