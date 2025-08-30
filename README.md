@@ -54,6 +54,7 @@ ai4med_individual_project/
         ├─ group_project/
         │  ├─ question_2.ipynb                  # Project source files
         │  └─ question_4.ipynb
+        ├─ LICENSE                              # This project employs a custom licence; for details, see LICENCE
         └─ README.md
 ```
 
